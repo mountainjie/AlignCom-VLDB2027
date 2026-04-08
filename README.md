@@ -1,2 +1,2 @@
-# AlignCom-VLDB2027
+# AlignCom
 The supplemental material of AlignCom
